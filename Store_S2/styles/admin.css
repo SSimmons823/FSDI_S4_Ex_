@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.e03xeuYtMPbRwcajGGgmYQHaDt&pid=Api&P=0&w=338&h=170");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(207, 194, 12);
+    margin-top: 0;
+}
+
+.container{
+    border: 1px solid;
+    padding: 0;
+}
+
+.form{
+    padding: 10px 20px;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+.col-4{
+    text-align: right;
+}
+
+.hidden{
+    display: none;
+}
+
+label{
+    text-align: right;
+}
+
+#btnSave{
+    background-color: rgb(31, 2, 2);
+    border-color: rgb(207, 194, 12);
+    
+}
+
